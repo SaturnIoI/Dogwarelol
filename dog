@@ -366,7 +366,7 @@ Library.theme.titlesize = 17
 
 if DogwareSettings.Watermark == true then
 
-Library:CreateWatermark("Script.Version | Dogware.Pw | {fps}")
+Library:CreateWatermark("{Script.Version} | Dogware.Pw | {fps}")
 
 end
 
